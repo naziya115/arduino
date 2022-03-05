@@ -1,5 +1,5 @@
 # 05.03.22. Arduino lesson
-lcd  
+## lcd  
 - SDA — AREF
 - SCL — to the first one (before AREF)
 - UCC to 5V
