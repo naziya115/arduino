@@ -1,10 +1,11 @@
 # 05.03.22. Arduino lesson
 lcd  
-*SDA* — AREF
-*SCL* — to the first one (before AREF)
-*UCC* to 5V
-*GND* to GND
-*#define _LCD_TYPE 1 
+SDA — AREF
+SCL — to the first one (before AREF)
+UCC to 5V
+GND to GND
+```
+#define _LCD_TYPE 1 
 #include <LCD_1602_RUS_ALL.h> // Подключение библиотеки 
 LCD_1602_RUS <LiquidCrystal_I2C> lcd(0x27, 16, 2);
 
@@ -38,4 +39,5 @@ void setup() {
  
 }
 
-void loop() { }*
+void loop() { }
+```
