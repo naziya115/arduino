@@ -1,4 +1,4 @@
-# Sneak Peek TO-Do List for 05.03.
+# Sneak Peek TO-DO List for 05.03.
 ### Gotta finish translation for all pages:
 - Save lang for tests' pages
 - Translate them (only my tests, menu, tests' number)
