@@ -2,8 +2,8 @@
 ## lcd  
 - SDA — AREF
 - SCL — to the first one (before AREF)
-- UCC to 5V
-- GND to GND
+- UCC — to 5V
+- GND — to GND
 ```
 #define _LCD_TYPE 1 
 #include <LCD_1602_RUS_ALL.h> // Подключение библиотеки 
