@@ -1,5 +1,5 @@
 # Rfid module
-### Link to RFID-module code + connection: https://ampermarket.kz/base/ex22-rfid/
+### Link to RFID module code + connection: https://ampermarket.kz/base/ex22-rfid/
 
 ```
 #include <Servo.h> 
