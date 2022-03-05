@@ -8,3 +8,4 @@
 - "My Tests" stupid location
 - Links in Log In and Register + btns translation
 - Link to main page in school level through Sneak Peek
+- Stupid My Tests Translation
