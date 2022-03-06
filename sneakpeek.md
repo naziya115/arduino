@@ -1,7 +1,7 @@
 # Sneak Peek TO-DO List for 06.03.
 ### Gotta finish translation for all pages:
 
-- school level tests translation everywhere
+- ~~school level tests translation everywhere~~
 - review page translation
 - register translation 
 
