@@ -3,7 +3,7 @@
 
 - ~~school level tests translation everywhere~~
 -~~review page translation~~
-- ~~register translation ~~
+- ~~register translation~~
 
 - ~~my tests main page and review location~~
 - ~~btns translation~~
