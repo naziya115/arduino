@@ -1,4 +1,4 @@
-# Sneak Peek TO-DO List for 06.03.
+# Sneak Peek TO-DO List for 07.03.
 ### Gotta finish translation for all pages:
 
 - ~~school level tests translation everywhere~~
