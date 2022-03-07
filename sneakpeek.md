@@ -3,6 +3,6 @@
 - link to main page at school level through Sneak Peek
 - mobile version — analytics, mode, language
 
-## Huge Step but I can do it:
+## Huge Step, but I can do it:
 - start working on "Analytics"
 
