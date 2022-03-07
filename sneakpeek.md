@@ -9,7 +9,9 @@
 - ~~btns translation~~
 
 
-### Tommorow:
-- link to main page in school level through Sneak Peek
+### Tomorrow:
+- link to main page at school level through Sneak Peek
 - start working on "Analytics"
+- link hovering
+- mobile version — analytics, mode, language
 
