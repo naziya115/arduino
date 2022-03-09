@@ -8,6 +8,12 @@
              9 -> 90%
              (80 + 70 + 90) /3 = 80% — 3.7
 
+### Analytics with graph bars:
+- send necessary data from servlet to is
+- use data by adding to graphs
+- add animation 
+- hide it when the user is not signed up
+- add mode, header and languages
 
 
 ```
