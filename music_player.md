@@ -2,6 +2,8 @@
 * how to track state of multile buttons
 * ~~connect rfid to the project~~
 * ask about the sd card reader
+* download the music
+* convert the music to mp3
 
 ### Rfid Scanner
 ```
