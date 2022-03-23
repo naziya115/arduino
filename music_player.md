@@ -1,5 +1,5 @@
 * ~~rfid scanner connect with your card~~
-* build the same thing with buttons
+* how to track state of multile buttons
 * connect rfid to the project
 
 
