@@ -1,9 +1,9 @@
 * ~~rfid scanner connect with your card~~
-* how to track state of multile buttons
+* how to track state of multile buttons — tinkercad
 * ~~connect rfid to the project~~
-* ask about the sd card reader
-* download the music
-* convert the music to mp3
+* ask about the sd card reader — teacher
+* download the music — at home
+* convert the music to mp3 — at home
 
 ### Rfid Scanner
 ```
