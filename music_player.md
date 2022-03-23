@@ -1,6 +1,7 @@
 * ~~rfid scanner connect with your card~~
 * how to track state of multile buttons
-* connect rfid to the project
+* ~~connect rfid to the project~~
+* ask about the sd card reader
 
 ### Rfid Scanner
 ```
