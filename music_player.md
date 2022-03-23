@@ -1,7 +1,7 @@
 * ~~rfid scanner connect with your card~~
 * how to track state of multile buttons — tinkercad
 * ~~connect rfid to the project~~
-* ask about the sd card reader — teacher
+* radiomart, deltachip
 * download the music — at home
 * convert the music to mp3 — at home
 
